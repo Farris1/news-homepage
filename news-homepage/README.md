@@ -28,7 +28,7 @@ Users should be able to:
 ![Mobile Version](./design/solution-mobile-half.png)
 
 ### Links
-- Live Site URL: [https://farris1.github.io/qr-code/](https://your-live-site-url.com)
+- Live Site URL: [https://farris1.github.io/news-homepage/](https://your-live-site-url.com)
 
 ## My process
 
